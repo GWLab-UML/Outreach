@@ -20,7 +20,7 @@ Ocean Acidification (OA) experiment to demonstrate how atmospheric CO2 affects t
 ●	3 racks
 ●	Small paper cups for blowing CO2 into their ‘own ocean’
 ●	pH Paper
-●	Worksheet [link](https://drive.google.com/open?id=1ne7vghIZ8-6GT1CVRyKl7paO9sti5_KX) (enough for each kid, ~30 printed double sided (can be black and white if concerned about ink usage))
+●	Worksheet [link](https://github.com/GWLab-UML/Outreach/Activities/coral_OA_activity.pdf) (enough for each kid, ~30 printed double sided (can be black and white if concerned about ink usage))
 ●	Notebooks
 
 ## Activity 
