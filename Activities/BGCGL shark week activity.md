@@ -5,7 +5,7 @@ Shark Week Activity
 ●	Print out shark matching cards
 ●	Print out true/false sheet
 ●	Square paper 
-●	Knowledge of how to fold a fortune teller lol
+●	    Knowledge of how to fold a fortune teller lol
 ●	Fins (cut out from scrap)
 ●	Craft example
 ●	tape/staple/glue
@@ -14,21 +14,22 @@ Shark Week Activity
 
 ### Game 1: Tooth or Truth
 ●	Split into two groups - one GW person per group to act as team leaders, one person to emcee 
-○	Each group gets a true and false card with printed out shark “facts”
+○	    Each group gets a true and false card with printed out shark “facts”
 ●	The emcee reads each “fact” and the group discusses if they think it’s true or false, and hold up the card they picked 
 
 ### Game 2: Matching sharks and jaws/teeth
-●	Document to print with shark pictures, name labels, and teeth!
+●	[Document](https://docs.google.com/document/d/1HlriMe4Vbh4Ih9JiwZ6Y9B52wz-OP7RD/edit) to print with shark pictures, name labels, and teeth!
 ●	Still within two groups, lay out pictures of sharks on the table. The kids have to match the shark name to the picture of the shark
 ●	Bonus round: can they match 4 pictures of teeth to the right shark?
 
 ### Shark craft (after games)
 ●	Instruct to fold a fortune teller
 ●	Color to look like a shark 
-○	Inside is red with teeth on border; outside is blue with gills, fins, eyes
+○	    nside is red with teeth on border; outside is blue with gills, fins, eyes
 ●	Inside has ‘fortunes’ about their interaction with a shark
-○	Ex: you lost a finger! You’re shark bait! You got lucky!
+○	    Ex: you lost a finger! You’re shark bait! You got lucky!
 
+![Shark Fortune Teller Example](sharkfortuneteller.png)
 
 ## Reflections
 Jade: 
