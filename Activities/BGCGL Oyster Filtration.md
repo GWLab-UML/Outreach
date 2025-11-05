@@ -15,10 +15,11 @@ Understanding the role of oysters in water quality
 
 
 ## Activity
-●	They’re going to ‘pollute’ water 
-    ○	The water that the oysters are in and the one they will filter
+●	They’re going to ‘pollute’ one? of the water basins
+    ○	Don't tell the kids that they are “polluting” the water, see if they say that themselves, whether or not they come to the conclusion that they “polluted” the water, say at the end that this is a model of them polluting the water
 ●	Set up oyster experiment all together
 ●	Write down hypotheses
     ○	What will they filter faster? 
 ●	Rest of water - here’s foam/paper/nets - try to filter stuff out of water
 ●	Then check back in at oyster experiment and talk about it
+●	(Can also have them take water samples - *need to add to materials for this part)

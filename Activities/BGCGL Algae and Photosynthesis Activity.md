@@ -1,4 +1,4 @@
-# BGCGL Algae Activity
+# BGCGL Algae and Photosynthesis Activity
 
 ## Materials:
 ### For microscope activity: light activity with algae 
@@ -26,7 +26,7 @@
 ●	Look at the different algae species under the scope - draw them!
 ○	Are they different? How are they different?
 ●	What happens when you put them in diff salinities
-●	What happens when you put them in diff light esxposures
+●	What happens when you put them in diff light exposures
 
 ### Photosynthesis/CO2
 (taken from [here](https://cropps.cornell.edu/wp-content/uploads/2024/03/Photosynthetic-Floatation_-_-Biology-Physics-Science-Activity-_-Exploratorium.pdf)! Thanks Nikea)
