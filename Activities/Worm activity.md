@@ -1,23 +1,23 @@
 # Worm activity
 
 ## Materials:
-●	Worms (clam worms?)
-●	Salt water of different salinities
-●	Notebooks
-●	Tupperware
-●	Live oysters (juveniles and adults, keep on ice to transport - but back in tanks after if they’re still alive)
-●	Dead oyster shells (there’s some in the -20 freezer, if in unlabeled bag, they’re fine to use)
-●	Phone microscopes (and phones to use the scopes)
-●	Worksheets for experiment hypothesis/observations?
+- Worms (clam worms?)
+- Salt water of different salinities
+- Notebooks
+- Tupperware
+- Live oysters (juveniles and adults, keep on ice to transport - but back in tanks after if they’re still alive)
+- Dead oyster shells (there’s some in the -20 freezer, if in unlabeled bag, they’re fine to use)
+- Phone microscopes (and phones to use the scopes)
+- Worksheets for experiment hypothesis/observations?
 
 ## Activities:
 
 ### Behavior experiment I
 1.	Prepare 2-3 tupperwares/containers of varying salinities (tap/DI water, ~15psu, ~30psu?) 
-    a.	Talk about salinity - what is the salinity of the ocean? Of your drinking water? Etc.
-    b.	Can bring the spectrophotometer to measure salinity? Or they can just take ur word for it lol, depends on if you think you’ll have extra time
+    - Talk about salinity - what is the salinity of the ocean? Of your drinking water? Etc.
+    - Can bring the spectrophotometer to measure salinity? Or they can just take ur word for it lol, depends on if you think you’ll have extra time
 2.	Introduce the worms
-    a.	Where they came from, what they do
+	- Where they came from, what they do
 3.	Hypothesize what the worms will do in the different salinities
 4.	Place a worm in one salinity at a time - observe, talk about behavior
 5.	Keep going with the remaining salinities - talk about changes in behavior
