@@ -30,12 +30,3 @@ for shark week!
 	- Ex: you lost a finger! You’re shark bait! You got lucky!
 
 ![Shark Fortune Teller Example](sharkfortuneteller.png)
-
-## Reflections
-Jade: 
-- True/False was fun but hard to keep everyone focused and come to a consensus - maybe consider giving everyone a true/false card and they can hold up what they think is right then we tally and say majority says… 
-- Matching game was fun and interactive, but it’s a bit hard if they don’t know ANYTHING about sharks since it’s just kinda random then…could include hints on the back of the photos?? Like this shark has a really big mouth (basking shark) or this shark has a black-tipped fin (reef shark)
-- One kid kept the basking shark printout because it was her favorite! Very cute - maybe can let everyone keep their favorite / glue the label and shark (and tooth) to a colored piece of paper?
-- Craft was very fun! Though some kids took it hard when their drawings didn’t turn out how they wanted to (one girl at my table was crying, but was able to distract her and focus on a different design + color with her) so important to remember to interact directly with the kids during this time
-- Also for the craft, I think everyone should try to fold them, but we should have some pre-folded to hand out after if they didn’t turn out right
-- I really liked how Morgan volunteered to write out the fortunes for the kids! 

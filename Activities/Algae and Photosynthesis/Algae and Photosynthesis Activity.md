@@ -37,17 +37,5 @@
 3. How long does it take for the first disk to float? How long does it take for half the disks to float? All the disks?
 
 
-## Reflections from lab members
 
-**Tristin:**
- - Ended up doing the spinach CO2 thing
-	- kids were paying attention in the first half, and liked the demonstration, but when they had to wait for the spinach leaves to come back up, half the kids got real antsy
-	- was a group of kids that started acting out and was def giving Brooke a hard time
-		- they started play-fighting in the corner?????
-- demonstrations good, but the waiting nah
-	- wanted to do more experiment stuff with them, but ended up not in the moment cuz they couldn't wait very well lol
-- kids actually learned photosynthesis with taking the CO2 out, but not really with the spinach coming back up
-	- a couple of kids actually did stick around, but it was only a handful
-		- 1 syringe broke
-		- 1 kid wanted to make human DNA chicken eggs lol
 
