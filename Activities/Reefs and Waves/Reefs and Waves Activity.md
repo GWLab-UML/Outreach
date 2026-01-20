@@ -1,6 +1,6 @@
 # Reefs and Waves Activity
 Understanding the role of reefs (oysters/coral) in protecting the shoreline from wave action 
-
+- **Target Age Group:**
 ## Materials:
 - Long, big bucket to put water in and simulate waves 
 	- (or mutliple containers - each can house an individual reef)

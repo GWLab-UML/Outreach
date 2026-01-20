@@ -1,5 +1,7 @@
 # Algae and Photosynthesis Activity
 
+- **Target Age Group:**
+
 ## Materials:
 ### For microscope activity: light activity with algae 
 - 4 x Different algae species (in capped bottles)

@@ -1,5 +1,7 @@
 # Intro to oysters!
 
+- **Target Age Group:**
+
 ## Materials
 - Adult oysters (~10, can bring some babies too)
 - Shucking knives
