@@ -1,6 +1,9 @@
 # Algae and Photosynthesis Activity
-
+- Intro algae: look at algae under the microscope and learn about the photosynthesis that they do 
 - **Target Age Group:** can be K-12, but probably works best for older 12-16?
+
+## Reference Links
+- photosynthesis activity from [here](https://cropps.cornell.edu/wp-content/uploads/2024/03/Photosynthetic-Floatation_-_-Biology-Physics-Science-Activity-_-Exploratorium.pdf)
 
 ## Materials:
 ### For microscope activity: light activity with algae 
@@ -31,7 +34,6 @@
 3. What happens when you put them in diff light exposures?
 
 ### Photosynthesis/CO2
-(taken from [here](https://cropps.cornell.edu/wp-content/uploads/2024/03/Photosynthetic-Floatation_-_-Biology-Physics-Science-Activity-_-Exploratorium.pdf)! Thanks Nikea)
 1. What do we know about how plants and algae grow?
 	- How do they eat? What do they need to eat?
 2. Hypothesize what will happen, set a timer

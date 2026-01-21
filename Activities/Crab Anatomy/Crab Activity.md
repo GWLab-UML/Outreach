@@ -1,6 +1,7 @@
 # New England Crabs
 
-- **Target Age Group:**
+- Learning crab anatomy with live crabs
+- **Target Age Group:** K-12
 
 ## Materials:
 - European Green crabs 

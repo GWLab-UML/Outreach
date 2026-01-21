@@ -1,5 +1,8 @@
 # Intro to oysters!
-- **Target Age Group:**
+- Oysters 101! Intro to oyster anatomy and ecosystem services
+- can be combined with other oyster activities
+- **Target Age Group:** K-12
+
 ## Materials
 - Adult oysters (~10, can bring some babies too)
 - Shucking knives
@@ -7,7 +10,7 @@
 - Lab gloves 
 - Cafeteria trays
 - Weigh boats
-- Paper towels and disposable bags(for cleanup)
+- Paper towels and disposable bags (for cleanup)
 - Forceps (2-3 - not the good ones)
 - Scalpels (2-3 - don’t let the kids use these)
 - Mini scopes (in microscopes drawer - will need to download apps on phones to use)

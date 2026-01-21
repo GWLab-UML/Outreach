@@ -1,6 +1,7 @@
 # Jellyfish Experiment 
 
-- **Target Age Group:**
+- Learning about plastic pollution and how to do scientific observations using live jellyfish
+- **Target Age Group:** Ages ~8 to 16
 
 ## Materials:
 - Notebooks

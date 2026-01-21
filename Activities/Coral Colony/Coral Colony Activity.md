@@ -1,7 +1,7 @@
 # Coral Reef Activity
 
-Crafting Activity: Constructing a coral reef out of clay
-- **Target Age Group:**
+Crafting Activity: Constructing a coral colony out of clay
+- **Target Age Group:** K-12
 
 ## Reference links
 - [Art at Home: Clay Coral Formations](https://www.youtube.com/watch?v=YFcNWq9GBVg)
