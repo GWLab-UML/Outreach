@@ -1,6 +1,6 @@
 # Algae and Photosynthesis Activity
 
-- **Target Age Group:**
+- **Target Age Group:** can be K-12, but probably works best for older 12-16?
 
 ## Materials:
 ### For microscope activity: light activity with algae 
