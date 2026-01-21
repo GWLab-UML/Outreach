@@ -1,5 +1,8 @@
 # Water Density 
 
+- Boat Building! What is density and how does it change with different materials and solutions? 
+- **Target Age Group:** K-12
+
 ## Materials
 - Different waters (can prep ahead of time or make there)
 	- Sugar water 

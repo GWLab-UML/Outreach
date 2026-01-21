@@ -1,5 +1,6 @@
 # Water Quality
-Using local water sources to show how water quality varies and how to measure water quality
+- Using local water sources to show how water quality varies and how to measure water quality
+- **Target Age Group:** K-12
 
 ## Materials
 - Orion

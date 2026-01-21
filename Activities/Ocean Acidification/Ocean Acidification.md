@@ -1,8 +1,12 @@
 # Ocean Acidification
+
 Ocean Acidification (OA) experiment to demonstrate how atmospheric CO2 affects the pH of the ocean
 - can be paired with [coral reef activity](https://github.com/GWLab-UML/Outreach/Activities/Coral-Reef-Activity.md)
 
-[Reference Link](https://www.calacademy.org/sites/default/files/assets/images/Education_Images/sah_ocean-acidification-experiment_201123.pdf) 
+- **Target Age Group:** K-12
+
+## Reference Links
+- [Reference Link](https://www.calacademy.org/sites/default/files/assets/images/Education_Images/sah_ocean-acidification-experiment_201123.pdf) 
 
 ## Materials
 - Waste container (with lid)
