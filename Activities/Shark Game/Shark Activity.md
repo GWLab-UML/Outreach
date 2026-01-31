@@ -2,7 +2,7 @@
 for shark week!
 - **Target Age Group:**
 ## Materials:
-- Print out shark matching cards ([Document](https://docs.google.com/document/d/1HlriMe4Vbh4Ih9JiwZ6Y9B52wz-OP7RD/edit) )
+- Print out shark [matching cards](https://github.com/GWLab-UML/Outreach/blob/main/Activities/Shark%20Game/shark%20week%20matching%20game.docx)
 - Print out true/false cards (*need link)
 - Print/prepare list of shark facts (be mindful of age group when choosing facts)
 - Square paper 
@@ -16,7 +16,7 @@ for shark week!
 ### Game 1: Tooth or Truth
 1. Split into two groups - one GW person per group to act as team leaders, one person to emcee 
 2. Each group gets a true and false card with printed out shark “facts”
-3. The emcee reads each “fact” and the group discusses if they think it’s true or false, and hold up the card they picked 
+3. The emcee reads each “fact” and the group discusses if they think it’s true or false, and hold up the card they picked (or have them answer individually)
 4. Crown a winner!
 
 ### Game 2: Matching sharks and jaws/teeth

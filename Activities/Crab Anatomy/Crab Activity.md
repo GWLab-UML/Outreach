@@ -12,7 +12,7 @@
 - 4L jug of saltwater
 - Cut up oyster bits
 - Long tweezers
-- Green crab coloring [prints](https://github.com/GWLab-UML/Outreach/Activities/CrabColorPrint.docx)
+- Green crab coloring [prints](https://github.com/GWLab-UML/Outreach/blob/main/Activities/Crab%20Anatomy/CrabColorPrint.docx)
 - Colored penciles/markers/crayons if needed
 
 ## Activity:
@@ -29,4 +29,5 @@
 6. Give them the paper with the crab to color in and/or a plate to draw the crab themselves!
 7. Side activity if any of the kids look bored - draw what crabs eat! 
     ○	Snails, worms, algae, eelgrass/seaweed 
-![[crab.jpg]]
+![Crab Coloring Page](crab.jpg)
+
