@@ -40,12 +40,12 @@
 
 ## Activities 
 1. The students will play predators! Have them choose which feeding mechanism they want to use to catch prey but don't yet show them what the prey item is. Ideally all types of feeding mechanisms are represented.
-2. Dump out the first prey item (we started with kidney beans) in the middle of the circle of students or use trays for pairs of students to share.
+2. Dump out the first prey item (we started with kidney beans) in the middle of the circle of students or use trays for pairs of students to share. Pass around paper cups to hold the prey they will collect.
 3. Set the timer for 1 min (or 30 sec) and have the students catch as many prey as possible. They can only use their feeding mechanism tool and must lift the prey up off the table and move it to their stash (for example, no raking).
 4. Count the number of prey caught (frequency) for each feeding mechanism and keep track with a table on the whiteboard. Calculate the median frequency.
 5. Each predator feeding mechanism who manages to catch more than the median number of prey will survive and produce descendants with the same trait. Predators who perform worse than the median will not reproduce.
 6. Repeat for 2-4 more generations.
-7. Ask students to use the table's data to draw a graph of the frequencies for each predator feeding mechanism over the number of generations. What predator was the most successful and why? what predator was least successful and why?
+7. Ask students to use the table's data to draw a graph of the frequencies for each predator feeding mechanism over the number of generations. What predator was the most successful and why? Shat predator was least successful and why?
 8. Add in a different prey item and repeat the process. Will frequencies change for each predatory feeding mechanism with the new prey item? 
 
 ## Suggestions for next time
