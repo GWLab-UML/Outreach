@@ -22,6 +22,7 @@ Extracting DNA from strawberries to describe what DNA is made of and demonstarte
 - Phone/other timer device
 ## Activity 
 1. Remove green tops of strawberries. Place strawberries in a plastic bag. After closing the bag, SMASH the strawberries for ~2 minutes until nice and smashed!
+    >be careful not to squeeze the bag too hard - it can pop!
 2. Make DNA extraction solution by adding the following to the first plastic cup:
   a. 2 teaspoon dish detergent
   b. 1 teaspoon salt
